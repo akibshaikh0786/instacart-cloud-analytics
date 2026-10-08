@@ -1,0 +1,10 @@
+raw/
+processed/
+.venv/
+*.csv
+*.parquet
+*.zip
+.env
+*.pem
+__pycache__/
+.ipynb_checkpoints/
